@@ -1,0 +1,10 @@
+C:\Users\Tranh\source\repos\AES\AES\bin\Debug\AES.exe.config
+C:\Users\Tranh\source\repos\AES\AES\bin\Debug\AES.exe
+C:\Users\Tranh\source\repos\AES\AES\bin\Debug\AES.pdb
+C:\Users\Tranh\source\repos\AES\AES\obj\Debug\AES.csproj.AssemblyReference.cache
+C:\Users\Tranh\source\repos\AES\AES\obj\Debug\AES.Form1.resources
+C:\Users\Tranh\source\repos\AES\AES\obj\Debug\AES.Properties.Resources.resources
+C:\Users\Tranh\source\repos\AES\AES\obj\Debug\AES.csproj.GenerateResource.cache
+C:\Users\Tranh\source\repos\AES\AES\obj\Debug\AES.csproj.CoreCompileInputs.cache
+C:\Users\Tranh\source\repos\AES\AES\obj\Debug\AES.exe
+C:\Users\Tranh\source\repos\AES\AES\obj\Debug\AES.pdb
