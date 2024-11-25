@@ -509,6 +509,8 @@ namespace AES
                     txt_giai_thich.Text += $"Sau  mixcloum {i}(hex):\r\n";
                     printMat(s);
                 }
+                txt_giai_thich.Text += $"Ma trận khóa K[{i}]:\r\n";
+                printMat(k[i]);
                 txt_giai_thich.Text += $"Sau  AddRoundKey {i}(hex):\r\n";
                 s = xor(s, k[i]); // AddRoundKey với khóa con
                 printMat(s);
